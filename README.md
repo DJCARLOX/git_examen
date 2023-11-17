@@ -30,4 +30,4 @@
 
 ## HARDWARE
 
-* [HARDWARE](https://github.com/DJCARLOX/git_examen.git/blob/main/hardware/hardware1.md)
+* [HARDWARE](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware1.md)
