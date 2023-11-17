@@ -4,7 +4,7 @@
 
 La tarjeta gráfica, también conocida como GPU (Unidad de Procesamiento Gráfico), desempeña un papel fundamental en el rendimiento visual de una computadora. Es responsable de procesar y renderizar gráficos, imágenes y vídeos, contribuyendo significativamente a la experiencia visual del usuario.
 
-![Imagen representativa de una tarjeta gráfica](https://www.coolmod.com/images/product/large/PROD-025812_1.jpg)
+![Imagen](https://hiraoka.com.pe/media/mageplaza/blog/post/t/a/tarjeta_grafica-que_es_y_como_funciona.jpg)
 
 ## Características Principales
 
