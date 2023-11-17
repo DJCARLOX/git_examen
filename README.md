@@ -32,3 +32,8 @@
 
 * [PROCESADOR](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware1.md)
 * [TARJETA GRAFICA](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware2.md)
+
+#DIEGO 
+* [HARDWARE1](hardware/hardware1DGC)
+* [HARDWARE2](hardware/hardware2DGC)
+
