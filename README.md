@@ -27,3 +27,7 @@
 | **Ponderación**                           | 60% teoría, 40% práctica                    |
 | **Fecha y Hora**                          | [Fecha] [Hora]                               |
 
+
+## HARDWARE
+
+* [HARDWARE](https://github.com/DJCARLOX/git_examen.git/blob/main/hardware/hardware1.md)
