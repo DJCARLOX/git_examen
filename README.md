@@ -30,4 +30,5 @@
 
 ## HARDWARE
 
-* [HARDWARE](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware1.md)
+* [PROCESADOR](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware1.md)
+* [TARJETA GRAFICA](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware2.md)
