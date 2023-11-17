@@ -1,5 +1,5 @@
 # CARLOS GONZALEZ LEDO
-
+# Miguel Anthony Portillo Costa
 
 | Asignatura                                | IAW (Implantación de Aplicaciones Web)      |
 |-------------------------------------------|----------------------------------------------|
@@ -32,3 +32,8 @@
 
 * [PROCESADOR](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware1.md)
 * [TARJETA GRAFICA](https://github.com/DJCARLOX/git_examen/blob/main/hardware/hardware2.md)
+---
+
+## Hardware Miguel Anthony
+[CPU](hardware/hardware1MA.md)
+[GPU](hardware/hardware2MA.md)
